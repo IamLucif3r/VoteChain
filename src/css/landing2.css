@@ -1,0 +1,14 @@
+body{
+    background-image: url("../img/1234.jpg");
+    background-size:cover;
+   
+}
+
+.nav-link:hover{
+    background-color:rgb(48, 44, 44);
+    color:white !important;
+}
+#candidatesResults:hover{
+    background-color: rgb(30, 33, 39);
+    color: white !important; 
+}

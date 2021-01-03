@@ -1,0 +1,33 @@
+body {
+  font-family: 'Arimo', serif!important;
+  color:white;
+ 
+}
+
+.abc:hover{
+  background-color:rgb(50, 51, 48) !important;
+  color: rgb(235, 235, 235) !important;
+}
+
+.main-navigation {
+  float: right;
+}
+
+.jumbotron{
+  background-image: url("../img/455981.jpg");
+  background-size:cover;
+ 
+}
+
+#votingPage{
+  margin-top:95px;
+}
+.nav-link:hover{
+  background-color:rgb(41, 39, 39);
+  color:white !important;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
