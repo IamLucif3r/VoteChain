@@ -11,7 +11,7 @@ This is how you can run the project in your machine. Here I have used a linux ma
 * [Ganache](https://www.trufflesuite.com/ganache): For Personal Ethereum Blockchain
 * [Web3Js](https://web3js.readthedocs.io/en/v1.3.0/): Ethereum Javascript Library
 * [Metamask](https://metamask.io/): Extension for your Browser 
-* [NodeJS](https://nodejs.org/en/download/package-manager/)
+* [NodeJS](https://nodejs.org/en/download/package-manager/) : Allows JavaScript to run on the server
 
 ### Procedure
 1. Start your Ganache and configure it to run on the same port as you've mentioned in the *"truffle-config.js"* file.
