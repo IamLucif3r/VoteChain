@@ -25,3 +25,5 @@ npm run dev
 6. Now we are ready. You can choose one of the options available in the list whom you want to cast your vote and click on the final submit button. 
 7. You will see a final pop-up button from the metamask where you will be asked to confirm the transaction. You have to click on Confirm and congratulations you have casted your vote.
 --- 
+
+For any queries, ping me here: [sanmol016@gmail.com](mailto:sanmol016@gmail.com)
