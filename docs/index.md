@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to VoteChain :wave:
 
-You can use the [editor on GitHub](https://github.com/IamLucif3r/VoteChain/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+VoteChain is a Decentralized Web Application, to fulfil the purpose of Secure Voting. It is an Ethereum-Based Web Application, which allows its user to cast their vote for selected candidates without revealing their identity. The most important feature of this Web App is it's security. Blockchain is very secure as of now. Thus building a e-Voting machine based on blockchain is very helpful, to maintain the integrity of the elections. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### How to Run the Project locally ?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is how you can run the project in your machine. Here I have used a linux machine to run the project however if you've a Windows machine you can still read the instruction & try to run them in windows accordingly. Here is a [Youtube-Tutorial-Video](https://www.youtube.com/watch?v=BoH75TkjwHw&feature=youtu.be) for your reference.
+### Prerequisite
+* [Ganache](https://www.trufflesuite.com/ganache): For Personal Ethereum Blockchain
+* [Web3Js](https://web3js.readthedocs.io/en/v1.3.0/): Ethereum Javascript Library
+* [Metamask](https://metamask.io/): Extension for your Browser 
+* [NodeJS](https://nodejs.org/en/download/package-manager/) : Allows JavaScript to run on the server
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Procedure
+1. Start your Ganache and configure it to run on the same port as you've mentioned in the *"truffle-config.js"* file.
+2. When you are done with Ganache, it's time to run the npm server. In order to run the NPM server, simply head to the project direcotry and type the following command in your terminal:
+```Node 
+npm run dev 
 ```
+3. After execution of the above code, the server will be started on your machine and you can switch over to your browser now.
+4. On your Browser, in the URL window, type localhost:[port number], where the port number is provided on your terminal when you run the server. You can now see the hosted web page.
+5. Now, we will configure the Metamask. Synchronize the Metamask with your Ganache so that you can access the dummy Ethers for your testing purpose.
+6. Now we are ready. You can choose one of the options available in the list whom you want to cast your vote and click on the final submit button. 
+7. You will see a final pop-up button from the metamask where you will be asked to confirm the transaction. You have to click on Confirm and congratulations you have casted your vote.
+--- 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Support or Contact
 
-### Jekyll Themes
+For any queries, ping me here: [sanmol016@gmail.com](mailto:sanmol016@gmail.com)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IamLucif3r/VoteChain/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
