@@ -1,5 +1,4 @@
-## Welcome to VoteChain :wave:
-
+## Welcome to VoteChain 👋
 VoteChain is a Decentralized Web Application, to fulfil the purpose of Secure Voting. It is an Ethereum-Based Web Application, which allows its user to cast their vote for selected candidates without revealing their identity. The most important feature of this Web App is it's security. Blockchain is very secure as of now. Thus building a e-Voting machine based on blockchain is very helpful, to maintain the integrity of the elections. 
 
 
@@ -23,6 +22,8 @@ npm run dev
 5. Now, we will configure the Metamask. Synchronize the Metamask with your Ganache so that you can access the dummy Ethers for your testing purpose.
 6. Now we are ready. You can choose one of the options available in the list whom you want to cast your vote and click on the final submit button. 
 7. You will see a final pop-up button from the metamask where you will be asked to confirm the transaction. You have to click on Confirm and congratulations you have casted your vote.
+
+
 --- 
 
 ## Support or Contact
