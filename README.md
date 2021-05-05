@@ -1,5 +1,9 @@
 # VoteChain
-A Decentralized e-Voting Portal based on Ethereum Blockchain. 
+![Ethereum](https://img.shields.io/badge/Ethereum-A6A9AA?style=for-the-badge&logo=ethereum&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+<br>A Decentralized e-Voting Portal based on Ethereum Blockchain. 
 
 ## About
 This is a Blockchain-based project, made by me [[Anmol Singh Yadav](https://www.linkedin.com/in/anmolsinghyadav/)] as a semester project in Vellore Institute of Technology. This projet is entirely based on Ethereum Blockchain with Web3Js to link it with HTML. Blockchain Technology is yet very hard to be hacked [ Until You have committed mistakes in Protocols or Coding Part ] that is what allows implementation of Blockchain in the Voting System. Once Blockchain is introduced in the Voting System, no one can put question on it's integrity. Thus, an inititative, of switching our voting system on Blockchain must be done by Government.
