@@ -13,8 +13,12 @@ In this project we have used Etherem Blockchain to demonstrate the voting proced
 This is how you can run the project in your machine. Here I have used a linux machine to run the project however if you've a Windows machine you can still read the instruction & try to run them in windows accordingly. Here is a [Youtube-Tutorial-Video](https://www.youtube.com/watch?v=BoH75TkjwHw&feature=youtu.be) for your reference.
 ### Prerequisite
 * [Ganache](https://www.trufflesuite.com/ganache): For Personal Ethereum Blockchain
+ <div align="cemter"><img src="/docs/ganache-home-empty.png" height=320 width=560/></div> <br/>
+
 * [Web3Js](https://web3js.readthedocs.io/en/v1.3.0/): Ethereum Javascript Library
 * [Metamask](https://metamask.io/): Extension for your Browser 
+ <div align="cemter"><img src="/docs/meta.png" height=320 width=560/></div> <br/>
+
 * [NodeJS](https://nodejs.org/en/download/package-manager/) : Allows JavaScript to run on the server
 
 ### Procedure
